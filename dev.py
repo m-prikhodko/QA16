@@ -1,1 +1,1 @@
-some data
+print("Hello")
